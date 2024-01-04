@@ -1,0 +1,35 @@
+.fundo{
+    background: url(img/fundo.png);
+}
+
+.menu{
+    padding: 20px;
+    background-color: #d8d4bc;
+}
+
+#site {
+    border: 1px hidden;
+    width: 900px;
+}
+
+.descricao {
+    padding: 20px;
+    background-color: #fffcec;
+}
+
+.direitos {
+    font-weight: 400
+    
+}
+
+.img {
+    border: 10px solid #d8d4bc;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px hidden red;
+    padding: 5px;
+}
